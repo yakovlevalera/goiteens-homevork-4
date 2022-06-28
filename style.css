@@ -1,0 +1,185 @@
+/*header*/
+:root {
+    --primary-text-color: #757575;
+    --tittle-text-color: #212121;
+    --accent-color: #2196f3;
+    --background-color: #ffff;
+}
+body {
+    color: var(--primary-text-color);
+    background-color: white;
+    font-family: roboto, sans-serif;
+}
+a{
+    text-decoration: none;
+
+}
+ul{
+    list-style: none;
+}
+.logo{
+    color: black;
+    font-family: Raleway, sans-serif;
+    font-style: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 3%;
+}
+span {
+    color: var(--accent-color);
+}
+
+.logo-span,
+.list-item:hover,
+.list-item:focus,
+.link-list:hover,
+.link-list:focus,
+.link-list1:focus,
+.link-list1:hover
+{
+    color: #2196F3;
+}
+.nav-link{
+    color: #212121;
+}
+.list-item{
+    color: #212121;
+    font-family: Roboto,sans-serif;
+    font-style: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 2%;
+}
+.link-list{
+    color: #757575;
+    font-family: Roboto,sans-serif;
+    font-style: 500;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 2%;
+}
+.hero-section{
+    background-color: #2F303A;
+}
+.hero-tittle{
+    color: white;
+    font-family: Roboto,sans-serif;
+    font-style: 900;
+    font-size: 44px;
+    line-height: 1.4;
+    letter-spacing: 6%;
+}
+.button{
+    background-color: #2196F3; 
+    color: white;
+    font-family: Roboto,sans-serif;
+    font-style: 700;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 6%;
+}
+.tittle{
+    color: #212121;
+    font-family: Roboto,sans-serif;
+    font-style: 700;
+    font-size: 36px;
+    line-height: 1.2;
+    letter-spacing: 3%;
+}
+.tittle1{
+    color: #212121;
+    font-family: Roboto,sans-serif;
+    font-style: 700;
+    font-size: 14px;
+    line-height: 1.1;
+    letter-spacing: 3%;
+}
+.paragraph{
+    color: #757575;
+    font-family: Roboto,sans-serif;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 3%;
+}
+.paragraph1{
+    color: #212121;
+    font-family: Roboto,sans-serif;
+    font-style: 500;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 3%;
+}
+.paragraph2{
+    color: #757575;
+    font-family: Roboto,sans-serif;
+    font-style: 400;
+    font-size: 16px;
+    line-height: 1.2;
+    letter-spacing: 3%;
+}
+.footer{
+    background-color: #2F303A;
+}
+.address{
+    color: #ffff;
+    font-family: Roboto,sans-serif;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 3%;
+}
+/*portfolio*/
+.link-list1{
+    color: rgba(255, 255, 255, 0.6);
+    font-family: Roboto,sans-serif;
+    font-style: 400;
+    font-size: 14px;
+    line-height: 1.7;
+    letter-spacing: 3%;
+}
+.button1,
+.text{
+    background-color: #F5F4FA;
+    color: #212121;
+    font-family: Roboto,sans-serif;
+    font-style: 500;
+    font-size: 16px;
+    line-height: 1.6;
+    letter-spacing: 3%;
+    
+}
+
+.text:hover,
+.text:focus,
+.button1:hover,
+.button1:focus
+{
+    background-color: #2196F3;
+    color: #ffff;
+}
+.logo1{
+    color: white;
+    font-family: Raleway, sans-serif;
+    font-style: 700;
+    font-size: 26px;
+    line-height: 1.2;
+    letter-spacing: 3%;
+}
+.name{
+    color: #212121;
+    font-family: Roboto,sans-serif;
+    font-style: 700;
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 6%;
+}
+.subtitle{
+    color: #757575;
+    font-family: Roboto,sans-serif;
+    font-style: 400;
+    font-size: 16px;
+    line-height: 1.9;
+    letter-spacing: 3%;
+}
+/*запитати про кнопки*/
